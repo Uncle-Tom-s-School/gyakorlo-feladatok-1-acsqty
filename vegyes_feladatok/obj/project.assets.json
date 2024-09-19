@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nemes.tamas\\.nuget\\packages\\": {}
+    "C:\\Users\\acs.attila\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
+      "projectUniqueName": "C:\\Users\\acs.attila\\Documents\\gyakorlo-feladatok-1-acsqty\\vegyes_feladatok\\vegyes_feladatok.csproj",
       "projectName": "vegyes_feladatok",
-      "projectPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\vegyes_feladatok.csproj",
-      "packagesPath": "C:\\Users\\nemes.tamas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nemes.tamas\\source\\repos\\vegyes_feladatok\\obj\\",
+      "projectPath": "C:\\Users\\acs.attila\\Documents\\gyakorlo-feladatok-1-acsqty\\vegyes_feladatok\\vegyes_feladatok.csproj",
+      "packagesPath": "C:\\Users\\acs.attila\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acs.attila\\Documents\\gyakorlo-feladatok-1-acsqty\\vegyes_feladatok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nemes.tamas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\acs.attila\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
